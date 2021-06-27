@@ -1,0 +1,7 @@
+.container {
+    height: 90vh;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("https://media.istockphoto.com/photos/abstract-blue-backgrounds-picture-id1204764789?b=1&k=6&m=1204764789&s=170667a&w=0&h=kWILbgyeLJ3MA-GBbmalhbhX_WPObucG05oZZ34lHkk=");
+  }

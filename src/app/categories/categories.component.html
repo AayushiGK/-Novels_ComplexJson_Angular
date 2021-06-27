@@ -1,0 +1,16 @@
+<div class="container mt-5">
+    <div class="row mx-4">
+        <h2 class="col-12 h1 purple"> Gutenberg Project </h2>
+        <p class="col-12 body"> A social cataloging website that allows you to freely search its database of books,
+            annotations, and reviews</p>
+    </div>
+    <div class="row mx-4">
+        <div class="col-12 col-md-6" *ngFor="let category of categories">
+            <div class="Genre-Card" routerLink="{{category.name}}">
+                <img class="p-2 h-100 float-left" src="../../assets/icons/{{category.name}}.svg">
+                <span class="h-100 float-left p-2 m-1 Genre-Card-Text"> {{category.name | uppercase}} </span>
+                <img class="p-3 h-100 float-right" src="../../assets/icons/Next.svg">
+            </div>
+        </div>
+    </div>
+</div>

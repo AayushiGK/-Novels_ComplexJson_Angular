@@ -1,0 +1,135 @@
+/* You can add global styles to this file, and also import other style files */
+@font-face {
+  font-family: "Montserrat-Black";
+  src: url(".//assets/fonts/Montserrat-Black.ttf");
+}
+@font-face {
+  font-family: "Montserrat-BlackItalic";
+  src: url(".//assets/fonts/Montserrat-BlackItalic.ttf");
+}
+@font-face {
+  font-family: "Montserrat-Bold";
+  src: url(".//assets/fonts/Montserrat-Bold.ttf");
+}
+@font-face {
+  font-family: "Montserrat-SemiBold";
+  src: url(".//assets/fonts/Montserrat-SemiBold.ttf");
+}
+@font-face {
+  font-family: "Montserrat-BoldItalic";
+  src: url(".//assets/fonts/Montserrat-BoldItalic.ttf");
+}
+@font-face {
+  font-family: "Montserrat-ExtraBold";
+  src: url(".//assets/fonts/Montserrat-ExtraBold.ttf");
+}
+@font-face {
+  font-family: "Montserrat-ExtraBoldItalic";
+  src: url(".//assets/fonts/Montserrat-ExtraBoldItalic.ttf");
+}
+@font-face {
+  font-family: "Montserrat-ExtraLight";
+  src: url(".//assets/fonts/Montserrat-ExtraLight.ttf");
+}
+@font-face {
+  font-family: "Montserrat-ExtraLightItalic";
+  src: url(".//assets/fonts/Montserrat-ExtraLightItalic.ttf");
+}
+@font-face {
+  font-family: "Montserrat-Italic";
+  src: url(".//assets/fonts/Montserrat-Italic.ttf");
+}
+@font-face {
+  font-family: "Montserrat-Light";
+  src: url(".//assets/fonts/Montserrat-Light.ttf");
+}
+@font-face {
+  font-family: "Montserrat-LightItalic";
+  src: url(".//assets/fonts/Montserrat-LightItalic.ttf");
+}
+@font-face {
+  font-family: "Montserrat-Medium";
+  src: url(".//assets/fonts/Montserrat-Medium.ttf");
+}
+@font-face {
+  font-family: "Montserrat-MediumItalic";
+  src: url(".//assets/fonts/Montserrat-MediumItalic.ttf");
+}
+@font-face {
+  font-family: "Montserrat-Regular";
+  src: url(".//assets/fonts/Montserrat-Regular.ttf");
+}
+@font-face {
+  font-family: "Montserrat-SemiBoldItalic";
+  src: url(".//assets/fonts/Montserrat-SemiBoldItalic.ttf");
+}
+@font-face {
+  font-family: "Montserrat-Thin";
+  src: url(".//assets/fonts/Montserrat-Thin.ttf");
+}
+@font-face {
+  font-family: "Montserrat-ThinItalic";
+  src: url(".//assets/fonts/Montserrat-ThinItalic.ttf");
+}
+
+.purple {
+  color: #5e56e7;
+}
+.lightest-grey {
+  color: #f8f7ff;
+}
+.light-grey {
+  color: #f0f0f6;
+}
+.grey {
+  color: #a0a0a0;
+}
+.slate-grey {
+  color: #333333;
+}
+
+.h1 {
+  font-family: Montserrat-SemiBold;
+  font-size: 48px;
+}
+
+.h2 {
+  font-family: Montserrat-SemiBold;
+  font-size: 30px;
+}
+
+.Genre-Card {
+  padding: 0 10px;
+  height: 50px;
+  border-radius: 5px;
+  background-color: white;
+  box-shadow: 0 2px 5px 0 rgba(211, 209, 238, 0.5);
+}
+.Genre-Card-Text {
+  font-family: Montserrat-Regular;
+  font-size: 20px;
+}
+
+.book-Name,
+.book-Author {
+  font-family: Montserrat-Regular;
+  font-size: 12px;
+}
+.search-Box {
+  padding: 0 10px;
+  height: 40px;
+  border-radius: 4px;
+}
+
+.body,
+.search-Box-Text {
+  font-family: Montserrat-Regular;
+  font-size: 16px;
+}
+
+.Rectangle {
+  width: 114px;
+  height: 162px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px 0 rgba(211, 209, 238, 0.5);
+}
