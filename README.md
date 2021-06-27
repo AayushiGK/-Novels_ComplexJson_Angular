@@ -2,6 +2,23 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.2.
 
+
+Welcome Page
+![image](https://user-images.githubusercontent.com/41955105/123557602-70675180-d7af-11eb-81d7-8d79385c638e.png)
+
+
+List of Books
+![image](https://user-images.githubusercontent.com/41955105/123557616-7cebaa00-d7af-11eb-841c-196e6b78161d.png)
+
+
+
+List of Books with QueryParam In Routes
+![image](https://user-images.githubusercontent.com/41955105/123557632-8f65e380-d7af-11eb-81f1-e8cf4ba86526.png)
+
+
+
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
